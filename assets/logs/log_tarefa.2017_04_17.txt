@@ -1,0 +1,484 @@
+[15:44:21 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price'
+[15:44:21 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '0.00'
+[15:44:21 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[15:44:21 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Locação'
+[15:44:21 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size'
+[15:44:21 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '259'
+[15:44:21 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[15:44:21 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[15:44:21 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[15:44:21 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '0'
+[15:44:21 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[15:44:23 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '0'
+[15:44:23 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[15:44:23 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '0'
+[15:44:23 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_address'
+[15:44:23 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = 'teste, 21 - Mod 1 - Riviera de São Lourenço'
+[15:44:23 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_id'
+[15:44:23 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '1'
+[15:44:23 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_additional_details'
+[15:44:23 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_additional_details', 
+                        meta_value = 'a:6:{s:15:"ar condicionado";s:0:"";s:23:"churrasqueira privativa";s:0:"";s:13:"hidromassagem";s:0:"";s:7:"lareira";s:0:"";s:7:"piscina";s:0:"";s:16:"quadra de squash";s:0:"";}'
+[15:44:23 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[15:44:23 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[15:44:23 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_featured'
+[15:44:23 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4455,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '0'
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '5000000.00'
+                    WHERE meta_id = 5385
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 5386
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '259'
+                    WHERE meta_id = 5387
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 5388
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5389
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5390
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5391
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_address'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'teste, 21 - Mod 1 - Riviera de São Lourenço'
+                    WHERE meta_id = 5392
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_id'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5393
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_additional_details'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'a:12:{s:15:"ar condicionado";s:0:"";s:13:"brinquedoteca";s:0:"";s:13:"churrasqueira";s:0:"";s:23:"churrasqueira privativa";s:0:"";s:13:"hidromassagem";s:0:"";s:7:"freezer";s:0:"";s:7:"lareira";s:0:"";s:7:"piscina";s:0:"";s:17:"piscina privativa";s:0:"";s:10:"playground";s:0:"";s:16:"quadra de squash";s:0:"";s:10:"sala de TV";s:0:"";}'
+                    WHERE meta_id = 5394
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 5395
+[15:45:47 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_featured'
+[15:45:47 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 5396
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '5000000.00'
+                    WHERE meta_id = 5385
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 5386
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '259'
+                    WHERE meta_id = 5387
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 5388
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5389
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5390
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5391
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_address'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'teste, 21 - Mod 1 - Riviera de São Lourenço'
+                    WHERE meta_id = 5392
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_id'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5393
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_additional_details'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'a:12:{s:15:"ar condicionado";s:0:"";s:13:"brinquedoteca";s:0:"";s:13:"churrasqueira";s:0:"";s:23:"churrasqueira privativa";s:0:"";s:13:"hidromassagem";s:0:"";s:7:"freezer";s:0:"";s:7:"lareira";s:0:"";s:7:"piscina";s:0:"";s:17:"piscina privativa";s:0:"";s:10:"playground";s:0:"";s:16:"quadra de squash";s:0:"";s:10:"sala de TV";s:0:"";}'
+                    WHERE meta_id = 5394
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 5395
+[15:48:06 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_featured'
+[15:48:06 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 5396
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '5000000.00'
+                    WHERE meta_id = 5385
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 5386
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '259'
+                    WHERE meta_id = 5387
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 5388
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5389
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5390
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5391
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_address'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'teste, 21 - Mod 1 - Riviera de São Lourenço'
+                    WHERE meta_id = 5392
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_property_id'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5393
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_additional_details'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'a:12:{s:15:"ar condicionado";s:0:"";s:13:"brinquedoteca";s:0:"";s:13:"churrasqueira";s:0:"";s:23:"churrasqueira privativa";s:0:"";s:13:"hidromassagem";s:0:"";s:7:"freezer";s:0:"";s:7:"lareira";s:0:"";s:7:"piscina";s:0:"";s:17:"piscina privativa";s:0:"";s:10:"playground";s:0:"";s:16:"quadra de squash";s:0:"";s:10:"sala de TV";s:0:"";}'
+                    WHERE meta_id = 5394
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 5395
+[15:49:35 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4455
+                AND   meta_key = 'REAL_HOMES_featured'
+[15:49:35 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 5396
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_price'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '5000000.00'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Venda'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_size'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '259'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '1'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '3'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '3'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_address'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = 'teste, 21 - Mod 1 - Riviera de São Lourenço'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_id'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '1'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_additional_details'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_additional_details', 
+                        meta_value = 'a:12:{s:15:"ar condicionado";s:0:"";s:13:"brinquedoteca";s:0:"";s:13:"churrasqueira";s:0:"";s:23:"churrasqueira privativa";s:0:"";s:13:"hidromassagem";s:0:"";s:7:"freezer";s:0:"";s:7:"lareira";s:0:"";s:7:"piscina";s:0:"";s:17:"piscina privativa";s:0:"";s:10:"playground";s:0:"";s:16:"quadra de squash";s:0:"";s:10:"sala de TV";s:0:"";}'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_featured'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '0'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4457'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4457'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4457
+                AND   meta_key = '_wp_attached_file'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4457,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/6cc7264b13661c88917ac2da52710359.jpg'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4457
+                AND   meta_key = '_wp_attachment_metadata'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4457,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/6cc7264b13661c88917ac2da52710359.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"6cc7264b13661c88917ac2da52710359-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"6cc7264b13661c88917ac2da52710359-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"6cc7264b13661c88917ac2da52710359-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"6cc7264b13661c88917ac2da52710359-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"6cc7264b13661c88917ac2da52710359-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"6cc7264b13661c88917ac2da52710359-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"6cc7264b13661c88917ac2da52710359-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:39:55 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = '_thumbnail_id'
+[18:39:55 UTC] POST_ID  ..: INSERT INTO enmr_postmeta    
+                    SET post_id = 4456,
+                        meta_key = '_thumbnail_id', 
+                        meta_value = '4457'
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_price'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '5000000.00'
+                    WHERE meta_id = 5397
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 5398
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_size'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '259'
+                    WHERE meta_id = 5399
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 5400
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5401
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5402
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5403
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_address'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'teste, 21 - Mod 1 - Riviera de São Lourenço'
+                    WHERE meta_id = 5404
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_property_id'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5405
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_additional_details'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'a:12:{s:15:"ar condicionado";s:0:"";s:13:"brinquedoteca";s:0:"";s:13:"churrasqueira";s:0:"";s:23:"churrasqueira privativa";s:0:"";s:13:"hidromassagem";s:0:"";s:7:"freezer";s:0:"";s:7:"lareira";s:0:"";s:7:"piscina";s:0:"";s:17:"piscina privativa";s:0:"";s:10:"playground";s:0:"";s:16:"quadra de squash";s:0:"";s:10:"sala de TV";s:0:"";}'
+                    WHERE meta_id = 5406
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 5407
+[19:07:24 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4456
+                AND   meta_key = 'REAL_HOMES_featured'
+[19:07:24 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 5408

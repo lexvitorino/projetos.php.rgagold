@@ -1,0 +1,1853 @@
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0.00'
+                    WHERE meta_id = 4341
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Locação'
+                    WHERE meta_id = 4342
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4343
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4344
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4345
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4346
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4347
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4348
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4349
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4350
+[14:00:12 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[14:00:12 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4351
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0.00'
+                    WHERE meta_id = 4341
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Locação'
+                    WHERE meta_id = 4342
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4343
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4344
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4345
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4346
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4347
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4348
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4349
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4350
+[14:59:26 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[14:59:26 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4351
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '15.00'
+                    WHERE meta_id = 4341
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4342
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4343
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4344
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4345
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4346
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4347
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4348
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4349
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4350
+[16:31:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[16:31:57 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4351
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '15.00'
+                    WHERE meta_id = 4341
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4342
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4343
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4344
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4345
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4346
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4347
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4348
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4349
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4350
+[16:32:24 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[16:32:24 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4351
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '15.00'
+                    WHERE meta_id = 4341
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4342
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4343
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4344
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4345
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4346
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4347
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4348
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4349
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4350
+[16:35:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[16:35:41 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4351
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '15.00'
+                    WHERE meta_id = 4341
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4342
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4343
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4344
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4345
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4346
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4347
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4348
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4349
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4350
+[16:39:55 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[16:39:55 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4351
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_price'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '15.00'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Venda'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_size'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '210'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '2'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '2'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '2'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_address'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_id'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '9'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_featured'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '1'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4302'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4302'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4302
+                AND   meta_key = '_wp_attached_file'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4302,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/91db4659517b2b272d460ab3702b2e8f.jpg'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4302
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4302,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/91db4659517b2b272d460ab3702b2e8f.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"91db4659517b2b272d460ab3702b2e8f-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"91db4659517b2b272d460ab3702b2e8f-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"91db4659517b2b272d460ab3702b2e8f-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"91db4659517b2b272d460ab3702b2e8f-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"91db4659517b2b272d460ab3702b2e8f-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"91db4659517b2b272d460ab3702b2e8f-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"91db4659517b2b272d460ab3702b2e8f-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = '_thumbnail_id'
+[16:47:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = '_thumbnail_id', 
+                        meta_value = '4302'
+[16:47:25 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4303'
+[16:47:25 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4303'
+[16:47:25 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4303
+                AND   meta_key = '_wp_attached_file'
+[16:47:25 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4303,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/006c665a15db6a641984d0ae37608416.jpg'
+[16:47:25 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4303
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:25 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4303,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/006c665a15db6a641984d0ae37608416.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"006c665a15db6a641984d0ae37608416-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"006c665a15db6a641984d0ae37608416-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"006c665a15db6a641984d0ae37608416-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"006c665a15db6a641984d0ae37608416-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"006c665a15db6a641984d0ae37608416-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"006c665a15db6a641984d0ae37608416-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"006c665a15db6a641984d0ae37608416-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4304'
+[16:47:27 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4304'
+[16:47:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4304
+                AND   meta_key = '_wp_attached_file'
+[16:47:27 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4304,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/cf57b6a3e80cb1ff6bbfb0732cfcfb69.jpg'
+[16:47:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4304
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:27 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4304,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/cf57b6a3e80cb1ff6bbfb0732cfcfb69.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"cf57b6a3e80cb1ff6bbfb0732cfcfb69-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"cf57b6a3e80cb1ff6bbfb0732cfcfb69-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"cf57b6a3e80cb1ff6bbfb0732cfcfb69-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"cf57b6a3e80cb1ff6bbfb0732cfcfb69-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"cf57b6a3e80cb1ff6bbfb0732cfcfb69-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"cf57b6a3e80cb1ff6bbfb0732cfcfb69-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"cf57b6a3e80cb1ff6bbfb0732cfcfb69-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:32 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4305'
+[16:47:32 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4305'
+[16:47:32 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4305
+                AND   meta_key = '_wp_attached_file'
+[16:47:32 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4305,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/ce81ed94ca95462ab0a7b7c1fb39f6f7.jpg'
+[16:47:32 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4305
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:32 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4305,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/ce81ed94ca95462ab0a7b7c1fb39f6f7.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"ce81ed94ca95462ab0a7b7c1fb39f6f7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"ce81ed94ca95462ab0a7b7c1fb39f6f7-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"ce81ed94ca95462ab0a7b7c1fb39f6f7-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"ce81ed94ca95462ab0a7b7c1fb39f6f7-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"ce81ed94ca95462ab0a7b7c1fb39f6f7-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"ce81ed94ca95462ab0a7b7c1fb39f6f7-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"ce81ed94ca95462ab0a7b7c1fb39f6f7-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:32 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4306'
+[16:47:32 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4306'
+[16:47:32 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4306
+                AND   meta_key = '_wp_attached_file'
+[16:47:32 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4306,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/ab0f5efe2ff52e1e5fc0cbe29917f006.jpg'
+[16:47:32 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4306
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:32 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4306,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/ab0f5efe2ff52e1e5fc0cbe29917f006.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"ab0f5efe2ff52e1e5fc0cbe29917f006-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"ab0f5efe2ff52e1e5fc0cbe29917f006-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"ab0f5efe2ff52e1e5fc0cbe29917f006-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"ab0f5efe2ff52e1e5fc0cbe29917f006-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"ab0f5efe2ff52e1e5fc0cbe29917f006-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"ab0f5efe2ff52e1e5fc0cbe29917f006-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"ab0f5efe2ff52e1e5fc0cbe29917f006-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:39 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4307'
+[16:47:39 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4307'
+[16:47:39 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4307
+                AND   meta_key = '_wp_attached_file'
+[16:47:39 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4307,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/9f7a4f039eb4474510d017e7e1cdd89a.jpg'
+[16:47:39 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4307
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:39 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4307,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/9f7a4f039eb4474510d017e7e1cdd89a.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"9f7a4f039eb4474510d017e7e1cdd89a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"9f7a4f039eb4474510d017e7e1cdd89a-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"9f7a4f039eb4474510d017e7e1cdd89a-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"9f7a4f039eb4474510d017e7e1cdd89a-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"9f7a4f039eb4474510d017e7e1cdd89a-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"9f7a4f039eb4474510d017e7e1cdd89a-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"9f7a4f039eb4474510d017e7e1cdd89a-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4308'
+[16:47:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4308'
+[16:47:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4308
+                AND   meta_key = '_wp_attached_file'
+[16:47:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4308,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/9f71a4876070a8fe19ae5d193cb8dc5c.jpg'
+[16:47:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4308
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4308,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/9f71a4876070a8fe19ae5d193cb8dc5c.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"9f71a4876070a8fe19ae5d193cb8dc5c-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"9f71a4876070a8fe19ae5d193cb8dc5c-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"9f71a4876070a8fe19ae5d193cb8dc5c-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"9f71a4876070a8fe19ae5d193cb8dc5c-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"9f71a4876070a8fe19ae5d193cb8dc5c-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"9f71a4876070a8fe19ae5d193cb8dc5c-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"9f71a4876070a8fe19ae5d193cb8dc5c-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4309'
+[16:47:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4309'
+[16:47:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4309
+                AND   meta_key = '_wp_attached_file'
+[16:47:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4309,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/424b607b2b5fd510c7f8621daf655f86.jpg'
+[16:47:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4309
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4309,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/424b607b2b5fd510c7f8621daf655f86.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"424b607b2b5fd510c7f8621daf655f86-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"424b607b2b5fd510c7f8621daf655f86-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"424b607b2b5fd510c7f8621daf655f86-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"424b607b2b5fd510c7f8621daf655f86-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"424b607b2b5fd510c7f8621daf655f86-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"424b607b2b5fd510c7f8621daf655f86-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"424b607b2b5fd510c7f8621daf655f86-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:47 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4310'
+[16:47:47 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4310'
+[16:47:47 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4310
+                AND   meta_key = '_wp_attached_file'
+[16:47:47 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4310,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/212ca0780ffca990ba498f884b821c80.jpg'
+[16:47:47 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4310
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:47 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4310,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/212ca0780ffca990ba498f884b821c80.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"212ca0780ffca990ba498f884b821c80-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"212ca0780ffca990ba498f884b821c80-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"212ca0780ffca990ba498f884b821c80-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"212ca0780ffca990ba498f884b821c80-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"212ca0780ffca990ba498f884b821c80-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"212ca0780ffca990ba498f884b821c80-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"212ca0780ffca990ba498f884b821c80-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4311'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4311'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4311
+                AND   meta_key = '_wp_attached_file'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4311,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/1ace0da88b40c9d2b65d184b7586eb96.jpg'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4311
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4311,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/1ace0da88b40c9d2b65d184b7586eb96.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"1ace0da88b40c9d2b65d184b7586eb96-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"1ace0da88b40c9d2b65d184b7586eb96-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"1ace0da88b40c9d2b65d184b7586eb96-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"1ace0da88b40c9d2b65d184b7586eb96-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"1ace0da88b40c9d2b65d184b7586eb96-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"1ace0da88b40c9d2b65d184b7586eb96-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"1ace0da88b40c9d2b65d184b7586eb96-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4312'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4312'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4312
+                AND   meta_key = '_wp_attached_file'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4312,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/7a14c4e6ad6e414422454786d3549271.jpg'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4312
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4312,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/7a14c4e6ad6e414422454786d3549271.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"7a14c4e6ad6e414422454786d3549271-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"7a14c4e6ad6e414422454786d3549271-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"7a14c4e6ad6e414422454786d3549271-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"7a14c4e6ad6e414422454786d3549271-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"7a14c4e6ad6e414422454786d3549271-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"7a14c4e6ad6e414422454786d3549271-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"7a14c4e6ad6e414422454786d3549271-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4313'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4313'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4313
+                AND   meta_key = '_wp_attached_file'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4313,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/3452b6b95222345ade69e76573985bb7.jpg'
+[16:47:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4313
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4313,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/3452b6b95222345ade69e76573985bb7.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"3452b6b95222345ade69e76573985bb7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"3452b6b95222345ade69e76573985bb7-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"3452b6b95222345ade69e76573985bb7-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"3452b6b95222345ade69e76573985bb7-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"3452b6b95222345ade69e76573985bb7-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"3452b6b95222345ade69e76573985bb7-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"3452b6b95222345ade69e76573985bb7-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4314'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4314'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4314
+                AND   meta_key = '_wp_attached_file'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4314,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/0fc50b936c26351a872fcf158a9c66e7.jpg'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4314
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4314,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/0fc50b936c26351a872fcf158a9c66e7.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"0fc50b936c26351a872fcf158a9c66e7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"0fc50b936c26351a872fcf158a9c66e7-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"0fc50b936c26351a872fcf158a9c66e7-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"0fc50b936c26351a872fcf158a9c66e7-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"0fc50b936c26351a872fcf158a9c66e7-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"0fc50b936c26351a872fcf158a9c66e7-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"0fc50b936c26351a872fcf158a9c66e7-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4315'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4315'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4315
+                AND   meta_key = '_wp_attached_file'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4315,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/2c650134b0ef5780be48d0a00921de4e.jpg'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4315
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4315,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/2c650134b0ef5780be48d0a00921de4e.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"2c650134b0ef5780be48d0a00921de4e-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"2c650134b0ef5780be48d0a00921de4e-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"2c650134b0ef5780be48d0a00921de4e-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"2c650134b0ef5780be48d0a00921de4e-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"2c650134b0ef5780be48d0a00921de4e-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"2c650134b0ef5780be48d0a00921de4e-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"2c650134b0ef5780be48d0a00921de4e-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4316'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4301,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4316'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4316
+                AND   meta_key = '_wp_attached_file'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4316,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/2495847483b67a17de5db15f00b809b2.jpg'
+[16:47:59 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4316
+                AND   meta_key = '_wp_attachment_metadata'
+[16:47:59 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4316,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/2495847483b67a17de5db15f00b809b2.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"2495847483b67a17de5db15f00b809b2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"2495847483b67a17de5db15f00b809b2-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"2495847483b67a17de5db15f00b809b2-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"2495847483b67a17de5db15f00b809b2-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"2495847483b67a17de5db15f00b809b2-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"2495847483b67a17de5db15f00b809b2-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"2495847483b67a17de5db15f00b809b2-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_price'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '20000.00'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Venda'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_size'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '111'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '11'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '1'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '11'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_address'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = '11, 23 - Mod 11 - Riviera de São Lourenço'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_id'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '10'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[17:32:41 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_featured'
+[17:32:41 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4318,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '1'
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_price'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '20000.00'
+                    WHERE meta_id = 4497
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4498
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_size'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '111'
+                    WHERE meta_id = 4499
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4500
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '11'
+                    WHERE meta_id = 4501
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4502
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '11'
+                    WHERE meta_id = 4503
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_address'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '11, 23 - Mod 11 - Riviera de São Lourenço'
+                    WHERE meta_id = 4504
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_id'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '10'
+                    WHERE meta_id = 4505
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4506
+[17:35:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_featured'
+[17:35:13 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4507
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_price'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '20000.00'
+                    WHERE meta_id = 4497
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4498
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_size'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '111'
+                    WHERE meta_id = 4499
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4500
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '11'
+                    WHERE meta_id = 4501
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4502
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '11'
+                    WHERE meta_id = 4503
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_address'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '11, 23 - Mod 11 - Riviera de São Lourenço'
+                    WHERE meta_id = 4504
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_property_id'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '10'
+                    WHERE meta_id = 4505
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4506
+[17:41:27 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4318
+                AND   meta_key = 'REAL_HOMES_featured'
+[17:41:27 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4507
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_price'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '20000.00'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Venda'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_size'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '111'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '11'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '1'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '11'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_address'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = '11, 23 - Mod 11 - Riviera de São Lourenço'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_id'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '10'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_featured'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '1'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4321'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4321'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4321
+                AND   meta_key = '_wp_attached_file'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4321,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/fc35fdbff8aa0346bb9f2454459db61a.jpg'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4321
+                AND   meta_key = '_wp_attachment_metadata'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4321,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/fc35fdbff8aa0346bb9f2454459db61a.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"fc35fdbff8aa0346bb9f2454459db61a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"fc35fdbff8aa0346bb9f2454459db61a-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"fc35fdbff8aa0346bb9f2454459db61a-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"fc35fdbff8aa0346bb9f2454459db61a-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"fc35fdbff8aa0346bb9f2454459db61a-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"fc35fdbff8aa0346bb9f2454459db61a-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"fc35fdbff8aa0346bb9f2454459db61a-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[17:42:44 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = '_thumbnail_id'
+[17:42:44 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = '_thumbnail_id', 
+                        meta_value = '4321'
+[17:42:48 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4320
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4322'
+[17:42:48 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4320,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4322'
+[17:42:48 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4322
+                AND   meta_key = '_wp_attached_file'
+[17:42:48 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4322,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/020fee503a8ebc78fc39d9046ebff4b6.jpg'
+[17:42:48 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4322
+                AND   meta_key = '_wp_attachment_metadata'
+[17:42:48 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4322,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/020fee503a8ebc78fc39d9046ebff4b6.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"020fee503a8ebc78fc39d9046ebff4b6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"020fee503a8ebc78fc39d9046ebff4b6-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"020fee503a8ebc78fc39d9046ebff4b6-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"020fee503a8ebc78fc39d9046ebff4b6-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"020fee503a8ebc78fc39d9046ebff4b6-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"020fee503a8ebc78fc39d9046ebff4b6-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"020fee503a8ebc78fc39d9046ebff4b6-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_price'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '15.00'
+                    WHERE meta_id = 4374
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4375
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_size'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4376
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4377
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4378
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4379
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4380
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_address'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4381
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_property_id'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4382
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4383
+[17:48:30 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4301
+                AND   meta_key = 'REAL_HOMES_featured'
+[17:48:30 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4384
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_price'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '1000000.00'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Venda'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_size'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '7000'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '3'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '2'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '0'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_address'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = 'riviera de sao lourenco, 21 - Mod 8 - Riviera de São Lourenço'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_id'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '11'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_featured'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '1'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4325'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4325'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4325
+                AND   meta_key = '_wp_attached_file'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4325,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/17eee587aff0e9d873da0b984e01cc66.jpg'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4325
+                AND   meta_key = '_wp_attachment_metadata'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4325,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/17eee587aff0e9d873da0b984e01cc66.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"17eee587aff0e9d873da0b984e01cc66-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"17eee587aff0e9d873da0b984e01cc66-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"17eee587aff0e9d873da0b984e01cc66-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"17eee587aff0e9d873da0b984e01cc66-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"17eee587aff0e9d873da0b984e01cc66-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"17eee587aff0e9d873da0b984e01cc66-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"17eee587aff0e9d873da0b984e01cc66-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[17:49:16 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = '_thumbnail_id'
+[17:49:16 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = '_thumbnail_id', 
+                        meta_value = '4325'
+[17:49:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4326'
+[17:49:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4324,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4326'
+[17:49:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4326
+                AND   meta_key = '_wp_attached_file'
+[17:49:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4326,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/6704ea1049ae6d52e0eed5e8df261afc.jpg'
+[17:49:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4326
+                AND   meta_key = '_wp_attachment_metadata'
+[17:49:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4326,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/6704ea1049ae6d52e0eed5e8df261afc.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"6704ea1049ae6d52e0eed5e8df261afc-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"6704ea1049ae6d52e0eed5e8df261afc-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"6704ea1049ae6d52e0eed5e8df261afc-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"6704ea1049ae6d52e0eed5e8df261afc-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"6704ea1049ae6d52e0eed5e8df261afc-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"6704ea1049ae6d52e0eed5e8df261afc-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"6704ea1049ae6d52e0eed5e8df261afc-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_price'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1000000.00'
+                    WHERE meta_id = 4543
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4544
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_size'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '7000'
+                    WHERE meta_id = 4545
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4546
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 4547
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 4548
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4549
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_address'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'riviera de sao lourenco, 21 - Mod 8 - Riviera de São Lourenço'
+                    WHERE meta_id = 4550
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_property_id'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '11'
+                    WHERE meta_id = 4551
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4552
+[17:56:40 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4324
+                AND   meta_key = 'REAL_HOMES_featured'
+[17:56:40 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4553
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_price'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '0.01'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Venda'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_size'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '590'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '5'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '5'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '4'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_address'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = 'PASSEIO TIPIOCAS, 15 - Mod 7 - Riviera de São Lourenço'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_id'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '12'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_featured'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '0'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4329'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4329'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4329
+                AND   meta_key = '_wp_attached_file'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4329,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/118c92cfbb41317b6b82ac065d9e0fcc.jpg'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4329
+                AND   meta_key = '_wp_attachment_metadata'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4329,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/118c92cfbb41317b6b82ac065d9e0fcc.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"118c92cfbb41317b6b82ac065d9e0fcc-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"118c92cfbb41317b6b82ac065d9e0fcc-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"118c92cfbb41317b6b82ac065d9e0fcc-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"118c92cfbb41317b6b82ac065d9e0fcc-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"118c92cfbb41317b6b82ac065d9e0fcc-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"118c92cfbb41317b6b82ac065d9e0fcc-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"118c92cfbb41317b6b82ac065d9e0fcc-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:04:33 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = '_thumbnail_id'
+[18:04:33 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = '_thumbnail_id', 
+                        meta_value = '4329'
+[18:04:39 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4330'
+[18:04:39 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4330'
+[18:04:39 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4330
+                AND   meta_key = '_wp_attached_file'
+[18:04:39 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4330,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/8f6a2e804890ff454c58fe5c8fa1b5a2.jpg'
+[18:04:39 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4330
+                AND   meta_key = '_wp_attachment_metadata'
+[18:04:39 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4330,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/8f6a2e804890ff454c58fe5c8fa1b5a2.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"8f6a2e804890ff454c58fe5c8fa1b5a2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"8f6a2e804890ff454c58fe5c8fa1b5a2-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"8f6a2e804890ff454c58fe5c8fa1b5a2-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"8f6a2e804890ff454c58fe5c8fa1b5a2-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"8f6a2e804890ff454c58fe5c8fa1b5a2-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"8f6a2e804890ff454c58fe5c8fa1b5a2-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"8f6a2e804890ff454c58fe5c8fa1b5a2-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:04:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4331'
+[18:04:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4331'
+[18:04:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4331
+                AND   meta_key = '_wp_attached_file'
+[18:04:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4331,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/0a663ec9eb32d7d8827211a5ddf4b8c5.jpg'
+[18:04:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4331
+                AND   meta_key = '_wp_attachment_metadata'
+[18:04:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4331,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/0a663ec9eb32d7d8827211a5ddf4b8c5.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"0a663ec9eb32d7d8827211a5ddf4b8c5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"0a663ec9eb32d7d8827211a5ddf4b8c5-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"0a663ec9eb32d7d8827211a5ddf4b8c5-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"0a663ec9eb32d7d8827211a5ddf4b8c5-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"0a663ec9eb32d7d8827211a5ddf4b8c5-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"0a663ec9eb32d7d8827211a5ddf4b8c5-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"0a663ec9eb32d7d8827211a5ddf4b8c5-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:04:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4332'
+[18:04:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4332'
+[18:04:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4332
+                AND   meta_key = '_wp_attached_file'
+[18:04:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4332,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/fd3708892ea6411efbe1358930ee3388.jpg'
+[18:04:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4332
+                AND   meta_key = '_wp_attachment_metadata'
+[18:04:43 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4332,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/fd3708892ea6411efbe1358930ee3388.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"fd3708892ea6411efbe1358930ee3388-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"fd3708892ea6411efbe1358930ee3388-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"fd3708892ea6411efbe1358930ee3388-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"fd3708892ea6411efbe1358930ee3388-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"fd3708892ea6411efbe1358930ee3388-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"fd3708892ea6411efbe1358930ee3388-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"fd3708892ea6411efbe1358930ee3388-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:04:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4333'
+[18:04:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4333'
+[18:04:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4333
+                AND   meta_key = '_wp_attached_file'
+[18:04:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4333,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/4ccf124dfab7b38987ff25e33151a390.jpg'
+[18:04:51 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4333
+                AND   meta_key = '_wp_attachment_metadata'
+[18:04:51 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4333,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/4ccf124dfab7b38987ff25e33151a390.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"4ccf124dfab7b38987ff25e33151a390-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"4ccf124dfab7b38987ff25e33151a390-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"4ccf124dfab7b38987ff25e33151a390-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"4ccf124dfab7b38987ff25e33151a390-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"4ccf124dfab7b38987ff25e33151a390-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"4ccf124dfab7b38987ff25e33151a390-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"4ccf124dfab7b38987ff25e33151a390-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:04:53 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4334'
+[18:04:53 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4334'
+[18:04:53 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4334
+                AND   meta_key = '_wp_attached_file'
+[18:04:53 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4334,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/e54a66aa306c13902f6dc08d6391ae05.jpg'
+[18:04:53 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4334
+                AND   meta_key = '_wp_attachment_metadata'
+[18:04:53 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4334,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/e54a66aa306c13902f6dc08d6391ae05.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"e54a66aa306c13902f6dc08d6391ae05-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"e54a66aa306c13902f6dc08d6391ae05-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"e54a66aa306c13902f6dc08d6391ae05-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"e54a66aa306c13902f6dc08d6391ae05-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"e54a66aa306c13902f6dc08d6391ae05-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"e54a66aa306c13902f6dc08d6391ae05-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"e54a66aa306c13902f6dc08d6391ae05-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:04:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4335'
+[18:04:57 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4335'
+[18:04:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4335
+                AND   meta_key = '_wp_attached_file'
+[18:04:57 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4335,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/0cf95320a53874add684e0f4b96138c1.jpg'
+[18:04:57 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4335
+                AND   meta_key = '_wp_attachment_metadata'
+[18:04:57 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4335,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/0cf95320a53874add684e0f4b96138c1.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"0cf95320a53874add684e0f4b96138c1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"0cf95320a53874add684e0f4b96138c1-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"0cf95320a53874add684e0f4b96138c1-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"0cf95320a53874add684e0f4b96138c1-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"0cf95320a53874add684e0f4b96138c1-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"0cf95320a53874add684e0f4b96138c1-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"0cf95320a53874add684e0f4b96138c1-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:01 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4336'
+[18:05:01 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4336'
+[18:05:01 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4336
+                AND   meta_key = '_wp_attached_file'
+[18:05:01 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4336,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/a5d94678c5b11c9dd8313f87e47eff80.jpg'
+[18:05:01 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4336
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:01 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4336,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/a5d94678c5b11c9dd8313f87e47eff80.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"a5d94678c5b11c9dd8313f87e47eff80-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"a5d94678c5b11c9dd8313f87e47eff80-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"a5d94678c5b11c9dd8313f87e47eff80-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"a5d94678c5b11c9dd8313f87e47eff80-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"a5d94678c5b11c9dd8313f87e47eff80-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"a5d94678c5b11c9dd8313f87e47eff80-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"a5d94678c5b11c9dd8313f87e47eff80-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4337'
+[18:05:05 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4337'
+[18:05:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4337
+                AND   meta_key = '_wp_attached_file'
+[18:05:05 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4337,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/cc55da63484766b49170c815e51be12d.jpg'
+[18:05:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4337
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:05 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4337,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/cc55da63484766b49170c815e51be12d.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"cc55da63484766b49170c815e51be12d-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"cc55da63484766b49170c815e51be12d-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"cc55da63484766b49170c815e51be12d-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"cc55da63484766b49170c815e51be12d-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"cc55da63484766b49170c815e51be12d-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"cc55da63484766b49170c815e51be12d-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"cc55da63484766b49170c815e51be12d-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4338'
+[18:05:05 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4338'
+[18:05:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4338
+                AND   meta_key = '_wp_attached_file'
+[18:05:05 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4338,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/aae0cfac346b0afd1115109f7471126a.jpg'
+[18:05:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4338
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:05 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4338,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/aae0cfac346b0afd1115109f7471126a.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"aae0cfac346b0afd1115109f7471126a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"aae0cfac346b0afd1115109f7471126a-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"aae0cfac346b0afd1115109f7471126a-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"aae0cfac346b0afd1115109f7471126a-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"aae0cfac346b0afd1115109f7471126a-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"aae0cfac346b0afd1115109f7471126a-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"aae0cfac346b0afd1115109f7471126a-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:09 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4339'
+[18:05:09 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4339'
+[18:05:09 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4339
+                AND   meta_key = '_wp_attached_file'
+[18:05:09 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4339,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/0a12a9fc986ebe798bb2ad8e2173fb59.jpg'
+[18:05:09 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4339
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:09 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4339,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/0a12a9fc986ebe798bb2ad8e2173fb59.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"0a12a9fc986ebe798bb2ad8e2173fb59-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"0a12a9fc986ebe798bb2ad8e2173fb59-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"0a12a9fc986ebe798bb2ad8e2173fb59-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"0a12a9fc986ebe798bb2ad8e2173fb59-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"0a12a9fc986ebe798bb2ad8e2173fb59-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"0a12a9fc986ebe798bb2ad8e2173fb59-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"0a12a9fc986ebe798bb2ad8e2173fb59-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4340'
+[18:05:13 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4340'
+[18:05:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4340
+                AND   meta_key = '_wp_attached_file'
+[18:05:13 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4340,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/bcd1deda2c5a55d9c06bd661ca89592c.jpg'
+[18:05:13 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4340
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:13 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4340,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/bcd1deda2c5a55d9c06bd661ca89592c.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"bcd1deda2c5a55d9c06bd661ca89592c-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"bcd1deda2c5a55d9c06bd661ca89592c-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"bcd1deda2c5a55d9c06bd661ca89592c-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"bcd1deda2c5a55d9c06bd661ca89592c-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"bcd1deda2c5a55d9c06bd661ca89592c-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"bcd1deda2c5a55d9c06bd661ca89592c-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"bcd1deda2c5a55d9c06bd661ca89592c-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:17 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4341'
+[18:05:17 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4341'
+[18:05:17 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4341
+                AND   meta_key = '_wp_attached_file'
+[18:05:17 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4341,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/24b518e294330f6d8f382948d1a4a1d5.jpg'
+[18:05:17 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4341
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:17 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4341,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/24b518e294330f6d8f382948d1a4a1d5.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"24b518e294330f6d8f382948d1a4a1d5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"24b518e294330f6d8f382948d1a4a1d5-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"24b518e294330f6d8f382948d1a4a1d5-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"24b518e294330f6d8f382948d1a4a1d5-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"24b518e294330f6d8f382948d1a4a1d5-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"24b518e294330f6d8f382948d1a4a1d5-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"24b518e294330f6d8f382948d1a4a1d5-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4342'
+[18:05:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4342'
+[18:05:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4342
+                AND   meta_key = '_wp_attached_file'
+[18:05:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4342,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/62463fdeedeace811f87641fc9a0a2d3.jpg'
+[18:05:21 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4342
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:21 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4342,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/62463fdeedeace811f87641fc9a0a2d3.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"62463fdeedeace811f87641fc9a0a2d3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"62463fdeedeace811f87641fc9a0a2d3-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"62463fdeedeace811f87641fc9a0a2d3-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"62463fdeedeace811f87641fc9a0a2d3-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"62463fdeedeace811f87641fc9a0a2d3-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"62463fdeedeace811f87641fc9a0a2d3-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"62463fdeedeace811f87641fc9a0a2d3-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:05:25 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_images' AND meta_value = '4343'
+[18:05:25 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4328,
+                        meta_key = 'REAL_HOMES_property_images', 
+                        meta_value = '4343'
+[18:05:25 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4343
+                AND   meta_key = '_wp_attached_file'
+[18:05:25 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4343,
+                        meta_key = '_wp_attached_file', 
+                        meta_value = '2017/04/0456fe7f9e5996fdcf5eb37e457aa2d6.jpg'
+[18:05:25 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4343
+                AND   meta_key = '_wp_attachment_metadata'
+[18:05:25 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4343,
+                        meta_key = '_wp_attachment_metadata', 
+                        meta_value = 'a:5:{s:5:"width";i:1920;s:6:"height";i:1082;s:4:"file";s:44:"2017/04/0456fe7f9e5996fdcf5eb37e457aa2d6.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"0456fe7f9e5996fdcf5eb37e457aa2d6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"0456fe7f9e5996fdcf5eb37e457aa2d6-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"0456fe7f9e5996fdcf5eb37e457aa2d6-768x433.jpg";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"0456fe7f9e5996fdcf5eb37e457aa2d6-1024x577.jpg";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"0456fe7f9e5996fdcf5eb37e457aa2d6-850x570.jpg";s:5:"width";i:850;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:22:"inspiry-grid-thumbnail";a:4:{s:4:"file";s:44:"0456fe7f9e5996fdcf5eb37e457aa2d6-660x600.jpg";s:5:"width";i:660;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"inspiry-agent-thumbnail";a:4:{s:4:"file";s:44:"0456fe7f9e5996fdcf5eb37e457aa2d6-220x220.jpg";s:5:"width";i:220;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"2.25";s:6:"credit";s:0:"";s:6:"camera";s:6:"XT1097";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1039348800";s:9:"copyright";s:0:"";s:12:"focal_length";s:5:"4.235";s:3:"iso";s:3:"250";s:13:"shutter_speed";s:7:"0.03333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}'
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_price'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0.01'
+                    WHERE meta_id = 4566
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 4567
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_size'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '590'
+                    WHERE meta_id = 4568
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4569
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '5'
+                    WHERE meta_id = 4570
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '5'
+                    WHERE meta_id = 4571
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '4'
+                    WHERE meta_id = 4572
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_address'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'PASSEIO TIPIOCAS, 15 - Mod 7 - Riviera de São Lourenço'
+                    WHERE meta_id = 4573
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_property_id'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '12'
+                    WHERE meta_id = 4574
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4575
+[18:07:05 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4328
+                AND   meta_key = 'REAL_HOMES_featured'
+[18:07:05 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4576

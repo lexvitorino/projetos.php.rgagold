@@ -1,0 +1,61 @@
+.pag_invisible {
+	display: none !important;
+}
+.pag_inactive {
+	pointer-events: none !important;
+	color: #CCC !important;
+}
+.img_imovel img {
+	width: 146px;
+	height: 146px;
+}
+.report_item {
+	width: 130px;
+	height: 120px;
+	background-color: #221e1e;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-variant: small-caps;
+}
+.report_item a {
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+}
+.nopermission {
+	height: 300px;
+	line-height: 300px;
+	margin-top: 100px;
+}
+.nopermission_img {
+	width: 35%;
+	float: left;
+    text-align: right;
+}
+.nopermission_img img {
+	height: 190px;
+}
+.nopermission_legend {
+	width: 55%;
+	float: left;
+    font-size: 28px;
+    font-variant: small-caps;
+    line-height: 34px;
+    padding-top: 65px;
+}
+.si {
+	border-bottom: 1px solid #ddd; 
+	padding-left: 10px;
+	cursor: pointer;
+}
+.si a {
+	color: #000;
+	text-decoration: none;
+	display: block;
+}
+.si:hover {
+	background-color: #EEE;
+}

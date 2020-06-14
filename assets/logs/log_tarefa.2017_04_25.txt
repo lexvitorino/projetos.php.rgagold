@@ -1,0 +1,143 @@
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_price', 
+                        meta_value = '0.00'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_price_postfix', 
+                        meta_value = 'Locação'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_size', 
+                        meta_value = '210'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_size_postfix', 
+                        meta_value = 'M2'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_bedrooms', 
+                        meta_value = '0'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_bathrooms', 
+                        meta_value = '0'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_garage', 
+                        meta_value = '0'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_address', 
+                        meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_property_id', 
+                        meta_value = '9'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_agent_display_option', 
+                        meta_value = 'none'
+[18:55:56 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[18:55:56 UTC] : INSERT INTO enmr_postmeta    
+                    SET post_id = 4298,
+                        meta_key = 'REAL_HOMES_featured', 
+                        meta_value = '1'
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0.00'
+                    WHERE meta_id = 4341
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'Locação'
+                    WHERE meta_id = 4342
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '210'
+                    WHERE meta_id = 4343
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 4344
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4345
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4346
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 4347
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_address'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'rua azul, 23 - Mod 4 - Riviera de São Lourenço'
+                    WHERE meta_id = 4348
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_property_id'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '9'
+                    WHERE meta_id = 4349
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 4350
+[18:58:43 UTC] : SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4298
+                AND   meta_key = 'REAL_HOMES_featured'
+[18:58:43 UTC] : UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 4351

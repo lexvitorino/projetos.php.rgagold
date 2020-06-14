@@ -1,0 +1,72 @@
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_price'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '5000000.00'
+                    WHERE meta_id = 5345
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_price_postfix'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'Venda'
+                    WHERE meta_id = 5346
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_size'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '200'
+                    WHERE meta_id = 5347
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_size_postfix'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'M2'
+                    WHERE meta_id = 5348
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_bedrooms'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5349
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_bathrooms'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '1'
+                    WHERE meta_id = 5350
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_garage'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '3'
+                    WHERE meta_id = 5351
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_address'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = ', 34 - Mod 2 - Riviera de São Lourenço'
+                    WHERE meta_id = 5352
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_property_id'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '2'
+                    WHERE meta_id = 5353
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_additional_details'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'a:15:{s:15:"ar condicionado";s:0:"";s:13:"brinquedoteca";s:0:"";s:13:"churrasqueira";s:0:"";s:23:"churrasqueira privativa";s:0:"";s:13:"hidromassagem";s:0:"";s:7:"freezer";s:0:"";s:7:"jacuzzi";s:0:"";s:6:"jardim";s:0:"";s:11:"lava roupas";s:0:"";s:15:"quadra de areia";s:0:"";s:7:"fitness";s:0:"";s:10:"sala de TV";s:0:"";s:16:"salão de festas";s:0:"";s:15:"salão de jogos";s:0:"";s:16:"vista para o mar";s:0:"";}'
+                    WHERE meta_id = 5354
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_agent_display_option'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = 'none'
+                    WHERE meta_id = 5355
+[21:49:18 UTC] POST_ID  ..: SELECT meta_id FROM enmr_postmeta
+                WHERE post_id = 4447
+                AND   meta_key = 'REAL_HOMES_featured'
+[21:49:18 UTC] POST_ID  ..: UPDATE enmr_postmeta    
+                    SET   meta_value = '0'
+                    WHERE meta_id = 5356

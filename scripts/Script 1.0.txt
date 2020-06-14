@@ -1,0 +1,270 @@
+
+
+create table if not exists subscribers (
+  id int(11) auto_increment primary key,
+  name varchar(50),
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+insert into subscribers (name) values ('RivieraGold');
+
+create table if not exists users (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(50),
+  login varchar(20),
+  password varchar(32),
+  id_group int(11),
+  is_admin smallint,
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+insert into users (id_subscriber, name, login, password, id_group, is_admin) values (1, 'Adinistrador', 'admin', '9dd56089270a59cb70de2bcfaa26c918', 1, 1);
+
+create table if not exists permission_groups (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,	
+  name varchar(50),
+  params varchar(200),
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+insert into permission_groups (id_subscriber, name) values (1, 'TOTAL');
+
+create table if not exists permission_params (
+  id int(11) auto_increment primary key,
+  name varchar(200),
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists tipo_imoveis (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(100) not null,  
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists cidades (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(100) not null,
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists bairros (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(100) not null,
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists opcionais (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(100) not null,
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists imobiliarias (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(100) not null,
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists operacoes (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(100) not null,
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists propriedades (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  referencia varchar(15),
+  id_imobiliaria int(11),
+  operacao varchar(100),
+  tipo varchar(100),
+  predio varchar(150),
+  num_ap varchar(10),
+  id_cidade int(11),
+  id_bairro int(11),
+  endereco varchar(200),
+  descricao_destaque varchar(500),
+  destaque_dia char(1),
+
+  area_total_terreno int(11),
+  area_construida int(11),
+  distancia_mar int(11),
+  frente_mar char(1),
+  dormitorio int(11),
+  suite int(11),
+  sala int(11),
+  cozinha int(11),
+  banheiro int(11),
+  lavabo int(11),
+  lavanderia int(11),
+  dep_empregada int(11),
+  edicula int(11),
+  vagas_garagem int(11),
+  opcional varchar(100),
+  
+  moeda char(1),
+  valor_venda decimal(15,2),
+  valor_entrada decimal(15,2),  
+  qtde_parcelas int(11),
+  valor_parcela decimal(15,2),
+  valor_intermediarias decimal(15,2),
+  valor_condominio decimal(15,2),
+  mostrar_valores char(1),
+
+  acomodacoes int(11),
+  aluguel_mensal decimal(15,2), 
+  aluguel_anual decimal(15,2),
+  aluguel_reveillon decimal(15,2),
+  aluguel_temporada decimal(15,2),
+  aluguel_carnaval decimal(15,2),
+  aluguel_pacote decimal(15,2),
+  observacoes varchar(500),
+  chave_com varchar(100),
+
+  documento_posse char(1),
+  planta_aprovada char(1),
+  escritura_definitiva char(1),
+  desmembrado char(1),
+  habitese char(1),
+  documentacao_imovel varchar(500),
+  registro varchar(20),
+  matricula varchar(20),
+  comarca varchar(100),
+  estado char(2),
+  cadastrado_sob varchar(20),
+
+  foto1 varchar(150),
+  foto2 varchar(150),
+  foto3 varchar(150),
+  foto4 varchar(150),
+  foto5 varchar(150),
+  foto6 varchar(150),
+  foto7 varchar(150),
+  foto8 varchar(150),
+  foto9 varchar(150),
+  foto10 varchar(150),
+  foto11 varchar(150),
+  foto12 varchar(150),
+  foto13 varchar(150),
+  foto14 varchar(150),
+  foto15 varchar(150),
+
+  prop_nome varchar(100),
+  prop_nacionalidade varchar(100),
+  prop_cpf varchar(11),
+  prop_rg varchar(20),
+  prop_dtnascimento date,
+  prop_estadocivil char(1),
+  prop_conjuge varchar(100),
+  prop_endereco varchar(100),
+  prop_cidade varchar(100),
+  prop_estado char(2),
+  prop_cep varchar(100),
+  prop_residencial varchar(20),
+  prop_celular varchar(20),
+  prop_comercial varchar(20),
+  prop_fax varchar(20),
+  prop_email varchar(20),
+  prop_indisponivel varchar(20),
+  prop_senha varchar(20),
+  
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+create table if not exists videos (
+  id int(11) auto_increment primary key,
+  id_subscriber int(11) not null,
+  name varchar(100) not null,
+  url varchar(250),
+  created_id_user int(11),
+  created_date datetime,
+  changed_id_user int(11),
+  changed_date datetime
+) engine = innodb;
+
+INSERT INTO `permission_params`(`name`) VALUES ('dashboard');
+INSERT INTO `permission_params`(`name`) VALUES ('users');
+INSERT INTO `permission_params`(`name`) VALUES ('users_add');
+INSERT INTO `permission_params`(`name`) VALUES ('users_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('users_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('permissions');
+INSERT INTO `permission_params`(`name`) VALUES ('permission_params_add');
+INSERT INTO `permission_params`(`name`) VALUES ('permission_params_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('permission_groups_add');
+INSERT INTO `permission_params`(`name`) VALUES ('permission_groups_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('permission_groups_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('tipo_imoveis');
+INSERT INTO `permission_params`(`name`) VALUES ('tipo_imoveis_add');
+INSERT INTO `permission_params`(`name`) VALUES ('tipo_imoveis_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('tipo_imoveis_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('cidade');
+INSERT INTO `permission_params`(`name`) VALUES ('cidade_add');
+INSERT INTO `permission_params`(`name`) VALUES ('cidade_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('cidade_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('videos');
+INSERT INTO `permission_params`(`name`) VALUES ('videos_add');
+INSERT INTO `permission_params`(`name`) VALUES ('videos_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('videos_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('imobiliaria');
+INSERT INTO `permission_params`(`name`) VALUES ('imobiliaria_add');
+INSERT INTO `permission_params`(`name`) VALUES ('imobiliaria_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('imobiliaria_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('opcionais');
+INSERT INTO `permission_params`(`name`) VALUES ('opcionais_add');
+INSERT INTO `permission_params`(`name`) VALUES ('opcionais_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('opcionais_delete'); 
+INSERT INTO `permission_params`(`name`) VALUES ('propriedades');
+INSERT INTO `permission_params`(`name`) VALUES ('propriedades_add');
+INSERT INTO `permission_params`(`name`) VALUES ('propriedades_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('propriedades_delete'); 
+INSERT INTO `permission_params`(`name`) VALUES ('bairros');
+INSERT INTO `permission_params`(`name`) VALUES ('bairros_add');
+INSERT INTO `permission_params`(`name`) VALUES ('bairros_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('bairros_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('operacoes');
+INSERT INTO `permission_params`(`name`) VALUES ('operacoes_add');
+INSERT INTO `permission_params`(`name`) VALUES ('operacoes_edit');
+INSERT INTO `permission_params`(`name`) VALUES ('operacoes_delete');
+INSERT INTO `permission_params`(`name`) VALUES ('reports');
+INSERT INTO `permission_params`(`name`) VALUES ('properties_rep');
